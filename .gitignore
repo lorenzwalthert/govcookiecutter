@@ -865,3 +865,6 @@ example/*
 
 # Ignore Sphinx documentation link checking folder
 docs/_linkcheck/
+
+# Ignore everything inside the `src/govcookiecutter/govcookiecutter` folder
+src/govcookiecutter/govcookiecutter/*
